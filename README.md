@@ -118,7 +118,7 @@ Filled in as the project progresses.
 
 ## Author
 
-**Ilyes Ameur**, Analytics Engineer · [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+**Ilyes Ameur**, Analytics Engineer · [LinkedIn](https://www.linkedin.com/in/ilyes-ameur-552655315)
 
 ## License
 
