@@ -8,7 +8,6 @@ logs/
 *.tfstate
 *.tfstate.*
 *.tfvars
-.terraform.lock.hcl
 
 # Secrets et données
 .env
@@ -238,3 +237,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+CLAUDE.local.md
